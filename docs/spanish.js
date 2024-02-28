@@ -27,6 +27,9 @@ const optionButtons = words.map(word => {
     optionsContainer.appendChild(button);
     return button;
 });
+
+shuffle(words);
+
 var currentQuestionIndex = 0;
 var score = 0;
 
