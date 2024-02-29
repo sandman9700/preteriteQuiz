@@ -72,6 +72,10 @@
     background-color: #e8dccc;
   }
 
+  table#answer th:hover, table#answer td:hover {
+    background-color: #e9dfd2;
+  }
+
   td.vosotros {
     background-color: #868686 !important;
     border: none !important;
