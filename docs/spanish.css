@@ -76,7 +76,7 @@
     background-color: #e9dfd2;
   }
 
-  td.vosotros {
+  td.vosotros, td.vosotros:hover {
     background-color: #868686 !important;
     border: none !important;
   }
